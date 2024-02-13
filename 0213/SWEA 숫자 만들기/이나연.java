@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class Solution숫자만들기 {
+public class 이나연 {
 	static int T,N,min,max;
 	static int[] arr= new int[4],nums,visited= new int[4],result;
 	public static void main(String[] args) throws Exception {
