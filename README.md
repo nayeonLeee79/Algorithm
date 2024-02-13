@@ -1,1 +1,1 @@
-# Algoritm-Team-A
+# Algoritm
